@@ -1,0 +1,6 @@
+{
+  "name": "FoodFusion 2.0 - Multi-Restaurant Food Ordering Platform",
+  "description": "Production-grade multi-restaurant food delivery platform featuring Customer, Restaurant Owner, and Administrator dashboards, Spring Boot 3.x REST architecture, Flyway MySQL migrations, and dynamic order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
